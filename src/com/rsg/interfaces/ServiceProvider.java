@@ -19,6 +19,12 @@ public class ServiceProvider implements Interf{
 		
 		sp.m1();
 		sp.m2();
+		
+		int x = 888;
+		
+		System.out.println(x);
+		
+		System.out.println(Interf.x);
 	}
 
 }

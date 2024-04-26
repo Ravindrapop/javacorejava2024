@@ -1,10 +1,14 @@
 package com.rsg.interfaces;
 
-public class Test {
+public class Test implements Right, Left{
 
-	public static void main(String[] args) {
-
-		System.out.println("Hello testing git....");
+	@Override
+	public void m1() {
+		// TODO Auto-generated method stub
+		
 	}
+	
+	
 
+	
 }
