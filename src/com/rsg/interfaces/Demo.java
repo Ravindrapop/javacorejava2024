@@ -24,6 +24,9 @@ public class Demo implements Right, Left{
 		
 		left.m1();
 		
+		System.out.println(Right.x);
+		System.out.println(Left.x);
+		
 	}
 	
 	
