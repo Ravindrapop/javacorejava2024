@@ -1,8 +1,8 @@
 package com.rsg.accessmodifiers;
 
-public class Bus extends Vehicle {
+public class Bus  {
 
-	@Override
+	
 	public int getNumberofWheels() {
 		return 6;
 	}

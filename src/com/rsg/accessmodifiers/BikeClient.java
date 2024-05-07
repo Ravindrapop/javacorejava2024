@@ -6,11 +6,11 @@ public class BikeClient {
 
 	public static void main(String[] args) {
 		
-		Bike bike = new Bike();
+		//Bike bike = new Bike();
 		
-		int number = bike.getNumberofWheels();
+	//	int number = bike.getNumberofWheels();
 		
-		System.out.println(number);
+		//System.out.println(number);
 		
 		
 		
